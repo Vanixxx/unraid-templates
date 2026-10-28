@@ -1,0 +1,11 @@
+<CommunityApplications>
+  <Profile>
+Unraid templates by **Vanixxx**.
+
+- **owncryptofolio** — self-hosted crypto portfolio tracker with German tax reports: exchanges, 35 blockchain networks, own files; holdings, profit and loss, the yearly German tax report (Excel/PDF) and a source-of-funds statement. Needs a PostgreSQL container.
+
+Support: GitHub issues of each project (English or German). Hobby projects maintained in spare time.
+  </Profile>
+  <Icon>https://raw.githubusercontent.com/Vanixxx/owncryptofolio/main/src/frontend/public/app-icons/E5-192.png</Icon>
+  <WebPage>https://github.com/Vanixxx/unraid-templates</WebPage>
+</CommunityApplications>
